@@ -24,7 +24,6 @@ Before getting started, make sure you have the following dependencies installed:
 
    ```bash
    git clone https://github.com/MTalha20/file-information-microservice.git
-   cd file-information-microservice
 
 npm install
 npm start
